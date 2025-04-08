@@ -1,9 +1,9 @@
 # Sentimental-Analysis-on-Business
 
-**Introduction:**
+##**Introduction:**
 In response to the growing need for data-driven decision-making in the business world, the project "Sentiment Analysis on Business" was initiated. Harnessing the power of Python programming language and Natural Language Processing (NLP) techniques, this project aimed to delve into the sentiment embedded within textual data associated with various business entities. By deciphering sentiment, businesses could gain valuable insights into public perception, thereby facilitating more informed strategies and actions.
 
-**Proposed System:**
+##**Proposed System:**
 The proposed system boasted a sophisticated architecture, leveraging state-of-the-art Python libraries such as NLTK (Natural Language Toolkit) and spaCy. These libraries served as the backbone for preprocessing textual data, ensuring that the subsequent sentiment analysis was conducted on clean and structured inputs. Moreover, the system incorporated a diverse range of sentiment analysis algorithms, including both rule-based and machine learning-based approaches. This comprehensive approach enabled the classification of textual data into positive, negative, or neutral sentiments with high accuracy.
 
 Furthermore, the system didn't merely stop at sentiment classification. It embraced advanced visualization techniques to present the analyzed data in an intuitive and digestible manner. Techniques such as word clouds and sentiment histograms were employed to visually depict the sentiments prevalent in the textual data, empowering stakeholders to grasp insights at a glance.
